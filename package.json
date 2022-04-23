@@ -6,7 +6,7 @@
     "moment": "^2.29.3"
   },
   "name": "@elixxrades/nodejs-logger",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "devDependencies": {
     "standard-version": "^9.3.2"
