@@ -6,7 +6,7 @@
     "moment": "^2.29.3"
   },
   "name": "ssp-logger",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "main": "index.js",
   "devDependencies": {
     "standard-version": "^9.3.2"
@@ -23,7 +23,7 @@
   "description": "NodeJS Logger Library",
   "repository": {
     "type": "git",
-    "url": "git://github.com/elixxrades/nodejs-logger.git"
+    "url": "git://github.com/elixxrades/ssp-logger.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
