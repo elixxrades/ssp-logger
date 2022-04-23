@@ -5,8 +5,8 @@
     "fs-extra": "^10.1.0",
     "moment": "^2.29.3"
   },
-  "name": "nodejs-logger",
-  "version": "1.0.9",
+  "name": "ssp-logger",
+  "version": "1.0.10",
   "main": "index.js",
   "devDependencies": {
     "standard-version": "^9.3.2"
