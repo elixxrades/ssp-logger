@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^10.1.0",
+    "moment": "^2.29.3"
+  },
+  "name": "@elixxrades/nodejs-logger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  },
+  "scripts": {
+    "release": "standard-version && git push --follow-tags && npm publish"
+  },
+  "keywords": [
+    "logger",
+    "nodejs"
+  ],
+  "author": "ElixxRadeS",
+  "license": "Apache License 2.0",
+  "description": "NodeJS Logger Library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elixxrades/nodejs-logger.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
